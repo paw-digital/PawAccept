@@ -1,0 +1,16 @@
+# Path to the database file
+DatabasePath = "/opt/data/paw-accept.db"
+# Listen to all interfaces (in container) at 8080
+ListenAddress = "0.0.0.0:8090"
+# Your Nano node RPC URL
+NodeURL = "http://localhost:7046/"
+# The WebSocket URL to your Nano node
+NodeWebsocketURL = "ws://localhost:7048"
+# Set this to your merchant account.
+Account = "paw_378iw9b6js4wof51p1uiocwssj3gk7ig6oabn8yxupfnmnw5itnpcmcnm95p"
+# Seed
+Seed = "F2ABE817E73C22E20A25FAB87B334B22230456E7AA0A2B209C72AD6A30117082"
+# CoinMarketCap API key. Available from https://coinmarketcap.com/api/
+CoinmarketcapAPIKey = "e4ef839f-d573-406d-9a04-058b92d7f475"
+# Debug
+EnableDebugLog = "True"
