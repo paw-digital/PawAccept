@@ -14,3 +14,5 @@ Seed = "F2ABE817E73C22E20A25FAB87B334B22230456E7AA0A2B209C72AD6A30117082"
 CoinmarketcapAPIKey = "e4ef839f-d573-406d-9a04-058b92d7f475"
 # Debug
 EnableDebugLog = "True"
+# Representative
+Representative = "paw_1re5oi6cxgzj3rqf9cj8a7nbnqhiiie5kyknjrg8es845n8p1tckfpuu8b56"
