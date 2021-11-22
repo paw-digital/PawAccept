@@ -15,3 +15,5 @@ vendor/
 
 # No Docker compose file 
 docker-compose.yml
+
+config.toml
